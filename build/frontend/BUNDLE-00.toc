@@ -1,0 +1,3 @@
+([('frontend',
+   '/Volumes/T7/Python_Course/PythonBookStoreDatabase/dist/frontend',
+   'EXECUTABLE')],)
